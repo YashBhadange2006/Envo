@@ -30,25 +30,44 @@
 - **MVVM Architecture**
 - **Cursor for UI prompts (optional)**
 
-## 🖼️ Screenshots
+## 🖼️ Screenshots – Light & Dark Mode Side by Side
 
 ### 🔹 Home Screen
-![Home](screenshots/home.png)
-
-### 🔹Dark Mode Home Screen
-![Home](screenshots/homebk.png)
+<table>
+  <tr>
+    <td><strong>Light Mode</strong></td>
+    <td><strong>Dark Mode</strong></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/home.png" width="300"/></td>
+    <td><img src="screenshots/homebk.png" width="300"/></td>
+  </tr>
+</table>
 
 ### 🔹 Carbon Footprint Screen
-![Carbon Footprint](screenshots/carbonfootprint.png)
-
-### 🔹Dark Mode Carbon Footprint Screen
-![Carbon Footprint](screenshots/carbonfootprintbk.png)
+<table>
+  <tr>
+    <td><strong>Light Mode</strong></td>
+    <td><strong>Dark Mode</strong></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/carbonfootprint.png" width="300"/></td>
+    <td><img src="screenshots/carbonfootprintbk.png" width="300"/></td>
+  </tr>
+</table>
 
 ### 🔹 Latest NASA News
-![NASA News](screenshots/latestNASAnews.png)
+<table>
+  <tr>
+    <td><strong>Light Mode</strong></td>
+    <td><strong>Dark Mode</strong></td>
+  </tr>
+  <tr>
+    <td><img src="screenshots/latestNASAnews.png" width="300"/></td>
+    <td><img src="screenshots/latestNASAnewsbk.png" width="300"/></td>
+  </tr>
+</table>
 
-### 🔹 Dark Mode Latest NASA News
-![NASA News](screenshots/latestNASAnewsbk.png)
 
 
 ## 🚀 Getting Started
