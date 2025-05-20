@@ -30,9 +30,6 @@
 - **MVVM Architecture**
 - **Cursor for UI prompts (optional)**
 
-## 📸 Screenshots
-_Add screenshots of your UI here (optional)_
-
 ## 🚀 Getting Started
 
 1. Clone this repository:
