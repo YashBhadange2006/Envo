@@ -30,6 +30,18 @@
 - **MVVM Architecture**
 - **Cursor for UI prompts (optional)**
 
+## 🖼️ Screenshots
+
+### 🔹 Home Screen
+![Home](screenshots/home.png)
+
+### 🔹 Carbon Footprint Screen
+![Carbon Footprint](screenshots/carbonfootprint.png)
+
+### 🔹 Latest NASA News
+![NASA News](screenshots/latestNASAnews.png)
+
+
 ## 🚀 Getting Started
 
 1. Clone this repository:
