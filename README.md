@@ -35,11 +35,20 @@
 ### 🔹 Home Screen
 ![Home](screenshots/home.png)
 
+### 🔹 Home Screen
+![Home](screenshots/homebk.png)
+
 ### 🔹 Carbon Footprint Screen
 ![Carbon Footprint](screenshots/carbonfootprint.png)
 
+### 🔹 Carbon Footprint Screen
+![Carbon Footprint](screenshots/carbonfootprintbk.png)
+
 ### 🔹 Latest NASA News
 ![NASA News](screenshots/latestNASAnews.png)
+
+### 🔹 Latest NASA News
+![NASA News](screenshots/latestNASAnewsbk.png)
 
 
 ## 🚀 Getting Started
