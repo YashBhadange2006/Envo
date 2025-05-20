@@ -37,4 +37,5 @@ _Add screenshots of your UI here (optional)_
 
 1. Clone this repository:
    ```bash
-  https://github.com/YashBhadange2006/Envo.git
+ git clone https://github.com/YashBhadange2006/Envo.git
+ 
